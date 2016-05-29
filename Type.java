@@ -1,0 +1,12 @@
+public enum Type {
+	BYTE,
+	SHORT,
+	INT,
+	LONG,
+	CHAR_N,
+	VARCHAR_N,
+	FLOAT,
+	DOUBLE,
+	DATETIME,
+	DATE	
+}
